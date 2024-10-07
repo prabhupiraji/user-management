@@ -1,0 +1,23 @@
+
+form .form-control {
+    width: 400px; 
+    padding: 5px; 
+    font-size: 14px; 
+}
+
+
+form {
+    
+    flex-direction: column;
+    
+}
+
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.btn{
+    width: 100px;
+    font-size: large;
+}
